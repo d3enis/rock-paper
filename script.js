@@ -81,7 +81,7 @@ function addScore(){
             console.log("Player Score:" + " " + playerScore + " " + "Pc Score" + " " + pcScore);
 
         }
-    }
+}
         
 function roundPlay(){
 counter = 0;
