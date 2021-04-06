@@ -1,5 +1,4 @@
 let select=["Rock","Paper","Scissors"];
-
 let playerScore=0;
 let pcScore=0;
 
@@ -75,7 +74,7 @@ function addScore(){
         }
         else if(result=="You Win"){
         playerScore++;
-        console.log("Player Score:" + " " + playerScore + " " + "Pc score" + " " + pcScore);
+        console.log("Player Score:" + " " + playerScore + " " + "Pc Score" + " " + pcScore);
         }
         else if(result =="Tie"){
 
